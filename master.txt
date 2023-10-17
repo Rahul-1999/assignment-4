@@ -1,1 +1,2 @@
 This content for master.txt
+Updated content for master.txt
